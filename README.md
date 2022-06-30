@@ -4,7 +4,9 @@
 ![Web capture_30-6-2022_185558_ap-south-1 console aws amazon com](https://user-images.githubusercontent.com/72448713/176744040-3e7a8de0-9fb8-431b-9cbd-ba054213f7ef.jpeg)  
 ### Step 2:
 ![Screenshot 2022-06-30 185641](https://user-images.githubusercontent.com/72448713/176744315-b7e72afe-c8e6-464f-ba4d-2ae8e948638c.jpg)
-### Step 3:  
+### Step 3:  Create and attach a policy
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/72448713/176751885-20ed2b41-f221-4608-ab32-f95563dfc8dc.png">  
+### Step 4: Download certificates  
 ![Web capture_30-6-2022_19716_ap-south-1 console aws amazon com](https://user-images.githubusercontent.com/72448713/176744467-a94a49d2-0f4e-4f95-86e9-b1a8d13b207c.jpeg)  
 ## To control LED from AWS  
 ### To turn on built-in LED  
